@@ -1,0 +1,13 @@
+{
+  "testFiles": "**/*.feature",
+  "chromeWebSecurity": false,
+  "TAGS": "not @ignore",
+  "defaultCommandTimeout": 50000,
+  "viewportWidth": 1100,
+  "viewportHeight": 660,
+  "env": {
+    "url": "https://test.ospace.co.uk/",
+    "signin": "https://test.ospace.co.uk/sign-in/"
+  },
+  "projectId": "1t9c9d"
+}

@@ -1,0 +1,11 @@
+{
+    "Firstname": "123Test",
+    "lastname": "Test321",
+    "phonenumber": "1234567890",
+    "mobilenumber": "1234567890",
+    "email": "123test@example.com",
+    "confrimemail": "123test@example.com",
+    "password": "Test!@£456",
+    "confrimpassword": "Test!@£456"
+
+  }
